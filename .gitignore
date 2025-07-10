@@ -1,0 +1,19 @@
+# 🔧 Dependency folders in any subdirectory
+**/node_modules/
+
+# 🔐 Environment files in any folder
+**/.env
+**/.env.*
+
+# 📦 Build / dist folders (React, etc.)
+**/build/
+**/dist/
+
+# 📝 Logs
+logs/
+**/*.log
+
+# 💻 System / editor files
+.DS_Store
+Thumbs.db
+.vscode/
