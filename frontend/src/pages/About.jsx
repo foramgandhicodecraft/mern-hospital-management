@@ -12,11 +12,10 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-12'>
         <img className='w-full md:max-w-[360px]' src={assets.about_image} alt="" />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-sm text-gray-600'>
-          <p>Welcome to Prescripto, your trusted partner in managing your healthcare needs conveniently and efficiently. At Prescripto, we understand the challenges individuals face when it comes to scheduling doctor appointments and managing their health records.</p>
-          <p>Prescripto is committed to excellence in healthcare technology. We continuously strive to enhance our platform, integrating the latest advancements to improve user experience and deliver superior service. Whether you're booking your first appointment or managing ongoing care, Prescripto is here to support you every step of the way.</p>
-          <b className='text-gray-800'>Our Vision</b>
-          <p>Our vision at Prescripto is to create a seamless healthcare experience for every user. We aim to bridge the gap between patients and healthcare providers, making it easier for you to access the care you need, when you need it.</p>
-        </div>
+          <p>Aatmiya website app tries to make healthcare seamless and gives an effort to make doctor and patient communication easier.It is an attempt in heathcare technology. Hope it serves well. </p>
+          <p>The hospital Aatmiya does not need any explanation for itself, it is a well renowed name in the whole city of Vadodara and has innumerable success stories attached to its name.</p>
+          <b className='text-gray-800'>OUR VISION</b>
+          <p>Vision is to create a project which can help in one of the most crucial fields of today that is healthcare. It is always fascinating to see how technology can increase productivity and efficiency in the healthcare sector.</p>        </div>
       </div>
 
       <div className='text-xl my-4'>
