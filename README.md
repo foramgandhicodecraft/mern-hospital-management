@@ -44,7 +44,7 @@ A full-stack hospital management web app built using the **MERN stack (MongoDB, 
 
 ---
 
-## 🛠 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 git bash:<br>
