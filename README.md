@@ -57,8 +57,7 @@ Create a .env file in /backend with:<br>
 PORT=5000 <br>
 JWT_SECRET=your_jwt_secret <br>
 MONGO_URL=your_mongodb_connection_string <br>
-ADMIN_EMAIL=admin@example.com <br>
-ADMIN_PASSWORD=admin123 <br>
+
 
 Frontend & Admin (/frontend/.env and /admin/.env)<br>
 VITE_BACKEND_URL=http://localhost:4000<br>
@@ -86,6 +85,12 @@ npm run dev<br>
 - Stored in localStorage
 - Sent in headers for protected routes
 - Backend validates token before allowing access
+
+## Live Link
+https://mern-hospital-management-f6b8c540b-gandhiforam91-9236s-projects.vercel.app/
+
+## Admin Portal Live Link
+https://mern-hospital-management-mgl8.vercel.app/
 
  ##  Author
 Foram Gandhi
